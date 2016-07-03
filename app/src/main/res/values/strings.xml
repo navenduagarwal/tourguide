@@ -1,0 +1,175 @@
+<resources>
+    <string name="app_name">Bangalore TourGuide</string>
+
+    <!-- Category name for attractions [CHAR LIMIT=20] -->
+    <string name="category_attractions">Attractions</string>
+
+    <!-- Category name for the list of current events [CHAR LIMIT=20] -->
+    <string name="category_events">Events</string>
+
+    <!-- Category name for the list of start-ups in the region [CHAR LIMIT=20] -->
+    <string name="category_startups">Startups</string>
+    <!-- Category name for the list of famous restaurants [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Trending Restaurants</string>
+
+    <!-- List of Names for attractions [CHAR LIMIT=20] -->
+    <string name="attractions_title_one">Lal Bagh</string>
+    <string name="attractions_title_two">Cubbon Park</string>
+    <string name="attractions_title_three">ISKCON Temple</string>
+    <string name="attractions_title_four">Bannerghatta Park</string>
+    <string name="attractions_title_five">Wonder La</string>
+    <string name="attractions_title_six">Vidhana Soudha</string>
+    <string name="attractions_title_seven">Bangalore Palace</string>
+    <string name="attractions_title_eight">Ulsoor</string>
+
+    <!-- List of categories for attractions [CHAR LIMIT=20] -->
+    <string name="attractions_category_one">Landscaped Gardens</string>
+    <string name="attractions_category_two">Park, Running</string>
+    <string name="attractions_category_three">Temple</string>
+    <string name="attractions_category_four">Park, Safari, Zoo</string>
+    <string name="attractions_category_five">Amusement Park</string>
+    <string name="attractions_category_six">Architecture</string>
+    <string name="attractions_category_seven">Architecture, Palace</string>
+    <string name="attractions_category_eight">Lakes, Temple</string>
+
+    <!-- List of hours of operation for attractions [CHAR LIMIT=20] -->
+    <string name="attractions_hours_one">Hours: 6AM-6PM</string>
+    <string name="attractions_hours_two">Hours: 6AM-6PM</string>
+    <string name="attractions_hours_three">Hours: 7:15AM–8:20PM</string>
+    <string name="attractions_hours_four">Hours: 6AM-6PM</string>
+    <string name="attractions_hours_five">Hours: 10AM-6PM</string>
+    <string name="attractions_hours_six">Hours: 8AM-5PM</string>
+    <string name="attractions_hours_seven">Hours: 8AM-5PM</string>
+    <string name="attractions_hours_eight">Hours: 6AM-8PM</string>
+
+    <!-- List of url for attractions [CHAR LIMIT=NONE] -->
+    <string name="attractions_url_one">https://goo.gl/maps/siDbWVVhE7M2</string>
+    <string name="attractions_url_two">https://goo.gl/maps/bmM9Y8jkpnH2</string>
+    <string name="attractions_url_three">https://goo.gl/maps/vfevh65GWwT2</string>
+    <string name="attractions_url_four">https://goo.gl/maps/rtEcxiPByZy</string>
+    <string name="attractions_url_five">https://goo.gl/maps/oKfDtW9LE4F2</string>
+    <string name="attractions_url_six">https://goo.gl/maps/UJExBNcrDMH2</string>
+    <string name="attractions_url_seven">https://goo.gl/maps/1piyE1ymSm42</string>
+    <string name="attractions_url_eight">https://goo.gl/maps/w4ur5wTWTAA2</string>
+
+    <!-- List of Names for events [CHAR LIMIT=20] -->
+    <string name="events_title_one">7th Jagran Film Festival</string>
+    <string name="events_title_two">Can You Solve a Murder Mystery?</string>
+    <string name="events_title_three">Fantastic Fancy Bazar Walk</string>
+    <string name="events_title_four">Identity Crisis</string>
+    <string name="events_title_five">Murder Mystery @Breakout</string>
+    <string name="events_title_six">Rescue Mission @Breakout</string>
+    <string name="events_title_seven">Riddle Room</string>
+    <string name="events_title_eight">Snow City</string>
+
+    <!-- List of categories for events [CHAR LIMIT=20] -->
+    <string name="events_category_one">Festival, Film</string>
+    <string name="events_category_two">Adventure, Games</string>
+    <string name="events_category_three">City, Guided Tours</string>
+    <string name="events_category_four">Stand Up</string>
+    <string name="events_category_five">Adventure, Games</string>
+    <string name="events_category_six">Adventure, Games</string>
+    <string name="events_category_seven">Adventure, Games</string>
+    <string name="events_category_eight">Adventure, Theme Parks</string>
+
+    <!-- List of date of operation for events [CHAR LIMIT=20] -->
+    <string name="events_date_one">Date: July 4 2016</string>
+    <string name="events_date_two">Date: July 4 2016</string>
+    <string name="events_date_three">Date: July 3-10 2016</string>
+    <string name="events_date_four">Date: July 3-10 2016</string>
+    <string name="events_date_five">Date: July 3-10 2016</string>
+    <string name="events_date_six">Date: July 3-10 2016</string>
+    <string name="events_date_seven">Date: July 3-10 2016</string>
+    <string name="events_date_eight">Date: July 3-10 2016</string>
+
+    <!-- List of url for events [CHAR LIMIT=NONE] -->
+    <string name="events_url_one">https://goo.gl/T3syUN</string>
+    <string name="events_url_two">https://goo.gl/T3syUN</string>
+    <string name="events_url_three">https://goo.gl/T3syUN</string>
+    <string name="events_url_four">https://goo.gl/T3syUN</string>
+    <string name="events_url_five">https://goo.gl/T3syUN</string>
+    <string name="events_url_six">https://goo.gl/T3syUN</string>
+    <string name="events_url_seven">https://goo.gl/T3syUN</string>
+    <string name="events_url_eight">https://goo.gl/T3syUN</string>
+
+    <!-- List of Names for restaurants [CHAR LIMIT=20] -->
+    <string name="restaurants_title_one">Pista House</string>
+    <string name="restaurants_title_two">Malgudi Vattika</string>
+    <string name="restaurants_title_three">Glocal Junction</string>
+    <string name="restaurants_title_four">O My Hunger</string>
+    <string name="restaurants_title_five">Here and Now</string>
+    <string name="restaurants_title_six">The Irish House</string>
+    <string name="restaurants_title_seven">Dialogue In The Dark</string>
+    <string name="restaurants_title_eight">Zero Mile Punjab</string>
+
+    <!-- List of categories for restaurants [CHAR LIMIT=20] -->
+    <string name="restaurants_category_one">North Indian, Biryani</string>
+    <string name="restaurants_category_two">South Indian, Maharashtrian</string>
+    <string name="restaurants_category_three">North Indian, European</string>
+    <string name="restaurants_category_four">Pan Asian, Sea Food</string>
+    <string name="restaurants_category_five">Cafe, American</string>
+    <string name="restaurants_category_six">European</string>
+    <string name="restaurants_category_seven">North Indian</string>
+    <string name="restaurants_category_eight">North Indian</string>
+
+    <!-- List of ratings of operation for restaurants [CHAR LIMIT=20] -->
+    <string name="restaurants_ratings_one">Rating: 3.8</string>
+    <string name="restaurants_ratings_two">Rating: 3.8</string>
+    <string name="restaurants_ratings_three">Rating: 4.0</string>
+    <string name="restaurants_ratings_four">Rating: 4.2</string>
+    <string name="restaurants_ratings_five">Rating: 4.5</string>
+    <string name="restaurants_ratings_six">Rating: 3.7</string>
+    <string name="restaurants_ratings_seven">Rating: 4.6</string>
+    <string name="restaurants_ratings_eight">Rating: 4.2</string>
+
+    <!-- List of url for restaurants [CHAR LIMIT=NONE] -->
+    <string name="restaurants_url_one">https://goo.gl/maps/kaM4v3CMQh42</string>
+    <string name="restaurants_url_two">https://goo.gl/maps/VgZLfY4GnLK2</string>
+    <string name="restaurants_url_three">https://goo.gl/maps/XeWJEiQJ6YU2</string>
+    <string name="restaurants_url_four">https://goo.gl/maps/gtZQAkJQnHJ2</string>
+    <string name="restaurants_url_five">https://goo.gl/maps/Hytkj4nySQm</string>
+    <string name="restaurants_url_six">https://goo.gl/maps/GadSHAiMLsM2</string>
+    <string name="restaurants_url_seven">https://goo.gl/maps/bR76aZuHp742</string>
+    <string name="restaurants_url_eight">https://goo.gl/maps/dEaxzqX8scx</string>
+
+    <!-- List of Names for startups [CHAR LIMIT=20] -->
+    <string name="startups_title_one">Flipkart</string>
+    <string name="startups_title_two">CommonFloor</string>
+    <string name="startups_title_three">Practo</string>
+    <string name="startups_title_four">NewsHunt</string>
+    <string name="startups_title_five">BigBasket</string>
+    <string name="startups_title_six">Little</string>
+    <string name="startups_title_seven">Swiggy</string>
+    <string name="startups_title_eight">Nest Away</string>
+
+    <!-- List of categories for startups [CHAR LIMIT=20] -->
+    <string name="startups_category_one">Ecommerce, Shopping, Retail</string>
+    <string name="startups_category_two">Ecommerce, Real Estate</string>
+    <string name="startups_category_three">Healthcare, SaaS</string>
+    <string name="startups_category_four">Social Media, News</string>
+    <string name="startups_category_five">Ecommerce, Retail</string>
+    <string name="startups_category_six">Restaurants, Hotels</string>
+    <string name="startups_category_seven">Food Delivery, Hyperlocal</string>
+    <string name="startups_category_eight">Ecommerce, Real Estate</string>
+
+    <!-- List of funding of operation for startups [CHAR LIMIT=20] -->
+    <string name="startups_funding_one">Funding Rounds (12) - $3.15B</string>
+    <string name="startups_funding_two">Funding Rounds (4) - $62.9M</string>
+    <string name="startups_funding_three">Funding Rounds (3) - $124M</string>
+    <string name="startups_funding_four">Funding Rounds (2) - $58M</string>
+    <string name="startups_funding_five">Funding Rounds (6) - $245.8M</string>
+    <string name="startups_funding_six">Funding Rounds (2) - $50M</string>
+    <string name="startups_funding_seven">Funding Rounds (4) - $60.5M</string>
+    <string name="startups_funding_eight">Funding Rounds (4) - $43.2M</string>
+
+    <!-- List of url for startups [CHAR LIMIT=NONE] -->
+    <string name="startups_url_one">https://www.flipkart.com</string>
+    <string name="startups_url_two">https://www.commonflor.com</string>
+    <string name="startups_url_three">https://www.practo.com</string>
+    <string name="startups_url_four">https://newshunt.com</string>
+    <string name="startups_url_five">https://bigbasket.com</string>
+    <string name="startups_url_six">https://checklittle.com</string>
+    <string name="startups_url_seven">https://www.swiggy.in</string>
+    <string name="startups_url_eight">https://nestaway.com</string>
+
+</resources>
